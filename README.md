@@ -37,8 +37,8 @@ Here is a professional and clear GitHub `README.md` for your project. I have str
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/MotionSim-Overlay.git
-cd MotionSim-Overlay
+git clone https://github.com/Chicagohucise/Simulation-Sickness.git
+cd Simulation-Sickness
 
 ```
 
