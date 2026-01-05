@@ -2,7 +2,7 @@
 
 ### An iOS-inspired anti-motion sickness overlay for PC gaming.
 
-**MotionSim-Overlay** is a lightweight Windows utility designed to reduce simulation sickness (motion sickness) during gameplay. Inspired by the "Vehicle Motion Cues" feature in iOS, this tool creates a subtle, reactive grid of particles that move in sync with your mouse and keyboard inputs, providing your brain with a stable visual reference point.
+**Simulation-Sickness** is a lightweight Windows utility designed to reduce simulation sickness (motion sickness) during gameplay. Inspired by the "Vehicle Motion Cues" feature in iOS, this tool creates a subtle, reactive grid of particles that move in sync with your mouse and keyboard inputs, providing your brain with a stable visual reference point.
 
 ---
 
@@ -17,7 +17,6 @@
 * **Visuals**: Customize particle radius, generation density, and line spacing.
 
 
-* **Modern Discord-Inspired UI**: A clean, dark-themed control panel with bilingual (English/Chinese) support.
 * **Low Performance Impact**: Built with PyQt6 and optimized threading to ensure zero impact on your game's FPS.
 
 ---
