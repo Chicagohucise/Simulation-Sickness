@@ -1,4 +1,4 @@
-# MotionSim-Overlay
+# Simulation-Sickness
 
 ### An iOS-inspired anti-motion sickness overlay for PC gaming.
 
