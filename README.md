@@ -1,7 +1,3 @@
-Here is a professional and clear GitHub `README.md` for your project. I have structured it to highlight the "iOS-inspired" nature of the tool, its features, and how it helps with simulation sickness.
-
----
-
 # MotionSim-Overlay
 
 ### An iOS-inspired anti-motion sickness overlay for PC gaming.
