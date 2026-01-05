@@ -11,7 +11,6 @@
 * **iOS-Style Motion Cues**: Real-time particle system that reacts to physical movement (Mouse & WASD).
 * **Intelligent Input Handling**: Supports complex keyboard inputs without key conflicts; accurately tracks simultaneous WASD presses.
 * **Dual-Column Layout**: Generates two columns of particles on both the left and right sides of the screen for maximum visual stability.
-* **Highly Customizable**:
 * **Sensitivity**: Fine-tune mouse and keyboard reaction force.
 * **Physics**: Adjust friction and particle life for a smoother or snappier feel.
 * **Visuals**: Customize particle radius, generation density, and line spacing.
